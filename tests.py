@@ -5,11 +5,12 @@ Calificación del laboratorio
 
 import sys
 
-import soluciones
+
 
 # import preguntas
 preguntas = soluciones
 
+import soluciones
 
 def test_01():
     """

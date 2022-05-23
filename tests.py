@@ -4,13 +4,13 @@ Calificación del laboratorio
 """
 
 import sys
-
+import preguntas
 
 
 # import preguntas
-preguntas = soluciones
+preguntas = preguntas
 
-import soluciones
+
 
 def test_01():
     """
